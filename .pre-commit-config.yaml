@@ -1,6 +1,6 @@
 repos:
 - repo: https://github.com/Lucas-C/pre-commit-hooks
-  rev: 79b8e4f273301e412602c856ddbc0c066765c98c  # frozen: v1.1.11
+  rev: ca52c4245639abd55c970e6bbbca95cab3de22d8  # frozen: v1.1.13
   hooks:
   - id: insert-license
     files: '^src/.+\.py$|^tests/.+\.py$'
